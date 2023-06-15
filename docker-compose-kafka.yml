@@ -1,4 +1,4 @@
-version: "3"
+version: "3.7"
 #command : docker compose -f docker-compose-kafka.yaml up -d
 services:
   zookeeper:
